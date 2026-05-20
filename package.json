@@ -1,0 +1,17 @@
+{
+  "name": "pt-solutions-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PT Solutions premium bilingual company website with live Netlify admin CMS.",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo Static Netlify website ready",
+    "zip": "cd .. && zip -r pt-solutions-netlify-ready.zip pt-solutions-netlify -x 'pt-solutions-netlify/node_modules/*'"
+  },
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  },
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
