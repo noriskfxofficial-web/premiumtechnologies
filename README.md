@@ -87,7 +87,7 @@ For maximum control, use the `Full JSON Control` tab. It exposes the full conten
 
 ## Notes
 
-- The uploaded PT Solutions logo is included at `public/images/pt-solutions-logo.webp`.
+- The uploaded PT Solutions logo is included at `public/images/pt-solutions-logo.png`.
 - The website uses CSS-generated premium visuals instead of copyrighted Google images, so it is safer for selling and publishing.
 - Replace default email, WhatsApp, and brand URLs inside the admin panel before final client delivery.
 - If you use external images later, only use properly licensed or owned images.
@@ -111,7 +111,3 @@ This package is intended to be uploaded to GitHub first, then imported into Netl
 Do not drag the full source project into Netlify Drop if you want the admin/functions to work. Drag-and-drop deploys do not run the build setup. For this project, GitHub-based deployment is the correct flow.
 
 For Arabic step-by-step instructions, see `GITHUB_NETLIFY_DEPLOY_AR.md`.
-
-
-## Ultra-light GitHub package
-All website and admin features remain included. Images were optimized to `.webp` to make GitHub web upload easier. Logos were not redesigned; only file compression/resizing was applied.
