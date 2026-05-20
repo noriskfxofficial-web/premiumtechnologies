@@ -1,0 +1,37 @@
+{
+  "heroBackgroundCandidates": [
+    "/images/generated/futuristic_digital_network_landscape.webp",
+    "/images/generated/global_connectivity_in_futuristic_design.webp",
+    "/images/generated/futuristic_fintech_cityscape_and_network.webp"
+  ],
+  "aboutSectionCandidates": [
+    "/images/generated/futuristic_corporate_meeting_with_city_views.webp",
+    "/images/generated/futuristic_tech_boardroom_with_global_insights.webp"
+  ],
+  "brandsSectionCandidates": [
+    "/images/generated/futuristic_corporate_network_infographic_design.webp",
+    "/images/generated/pt_solutions_multi_brand_network_showcase.webp",
+    "/images/generated/corporate_multi_brand_digital_showcase.webp"
+  ],
+  "technologySectionCandidates": [
+    "/images/generated/modern_ui_dashboard_design_mockup.webp",
+    "/images/generated/futuristic_neon_tech_icon_grid.webp",
+    "/images/generated/futuristic_tech_icons_dashboard_display.webp",
+    "/images/generated/glowing_futuristic_circular_ui_frame.webp"
+  ],
+  "contactSectionCandidates": [
+    "/images/generated/futuristic_contact_page_with_holographic_ui.webp",
+    "/images/generated/futuristic_control_room_with_holographic_ui.webp"
+  ],
+  "fullGeneratedAssetCount": 28,
+  "brandLogoFiles": [
+    "/images/brands/arab-trading-network-logo.webp",
+    "/images/brands/elevate-wave-logo.webp",
+    "/images/brands/lft-logo.webp",
+    "/images/brands/noriskfx-logo.webp",
+    "/images/brands/pt-solutions-logo.webp",
+    "/images/brands/st-parfum-logo.webp",
+    "/images/brands/the-wolf-of-wall-street-logo.webp",
+    "/images/brands/trade-vision-logo.webp"
+  ]
+}
