@@ -1,29 +1,37 @@
-# PT Solutions Netlify Usage
+# Usage Notes — PT Solutions Final VIP Website
 
-This repository is prepared to deploy from GitHub to Netlify.
+## Public website
 
-## Required Netlify settings
+Open `/` for the public website. Navigation includes Home, About, Services, Brands, Technology, VIP Portal, Vision, Global Standards, and Contact.
 
-Netlify normally reads these values from `netlify.toml`:
+## Admin panel
 
-- Build command: `npm run build`
-- Publish directory: `public`
-- Functions directory: `netlify/functions`
+Open `/admin` and log in using the demo credentials from `README.md`.
 
-## Required environment variables
+Inside admin you can:
 
-Set these in Netlify under Site configuration > Environment variables:
+- Edit company identity and SEO
+- Update homepage, about, technology, vision, contact, and footer copy
+- Manage services
+- Manage brands and logo paths
+- Manage VIP portal and global standards content
+- View leads
+- Export leads as CSV
+- Upload media
+- Edit the full JSON content structure
+- Publish live changes instantly
 
-- `ADMIN_EMAIL`
-- `ADMIN_PASSWORD`
-- `ADMIN_JWT_SECRET`
+## Client/VIP delivery recommendation
 
-The project includes demo fallback credentials for first preview only. Change them before showing the website to a client.
+For a real VIP client handoff:
 
-## Admin URL
+1. Change admin credentials in Netlify environment variables.
+2. Connect the GitHub repo to Netlify.
+3. Deploy production.
+4. Visit `/admin` and click **Publish Live** once after reviewing the final content.
+5. Test the contact form and lead inbox.
+6. Replace or add any final client-specific assets through Media Upload or the file structure.
 
-After deploy, open:
+## Production portal note
 
-`https://your-site-name.netlify.app/admin`
-
-Login, edit website content, then click `Publish Live`.
+The `/vip` page is a premium client portal presentation and access-request experience. A fully authenticated client portal can be expanded later with real client login, private file storage, support tickets, project timelines, and role-based access.

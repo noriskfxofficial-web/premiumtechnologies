@@ -1,202 +1,1387 @@
 {
-  "version": "1.0.0",
+  "version": "3.0.0-vip-client-final",
   "settings": {
     "defaultLanguage": "en",
     "companyName": "PT Solutions",
     "legalName": "Premium Technologies Solutions",
-    "logo": "/images/pt-solutions-logo.png",
-    "email": "contact@ptsolutions.global",
-    "whatsapp": "+961 76 524 340",
+    "logo": "/images/pt-solutions-logo.webp",
+    "email": "primetechnologiessolutions@outlook.com",
+    "whatsapp": "+961 81 450 719",
     "location": {
-      "en": "Global technology company",
-      "ar": "شركة تكنولوجيا عالمية"
+      "en": "Operating globally from Lebanon to international markets",
+      "ar": "تعمل عالميًا من لبنان إلى الأسواق الدولية"
+    },
+    "socials": {
+      "instagram": "@premium_technologies_solutions",
+      "telegram": "@premium_technologies_solutions",
+      "facebook": "@premium_technologies_solutions"
     }
   },
   "seo": {
     "home": {
       "en": {
-        "title": "PT Solutions | Premium Technologies Solutions",
-        "description": "Ultra-premium global technology and SaaS company building digital brands, fintech ecosystems, commerce platforms, and media systems for ambitious businesses."
+        "title": "PT Solutions — Premium Technologies Solutions",
+        "description": "A premium global SaaS and digital ecosystem company delivering full-stack development, UI/UX, backend systems, admin platforms, and VIP client portals."
       },
       "ar": {
-        "title": "PT Solutions | Premium Technologies Solutions",
-        "description": "شركة تكنولوجيا وSaaS عالمية فائقة الفخامة تبني علامات رقمية ومنصات Fintech وCommerce وMedia لأصحاب المشاريع والشركات الطموحة."
+        "title": "PT Solutions — Premium Technologies Solutions",
+        "description": "شركة تكنولوجيا عالمية فاخرة تقدم SaaS، تطوير Full-Stack، UI/UX، أنظمة Backend، لوحات Admin، وبوابات VIP للعملاء."
       }
     },
     "about": {
       "en": {
         "title": "About PT Solutions",
-        "description": "Meet Premium Technologies Solutions, the global multi-brand digital company building premium infrastructure for modern businesses."
+        "description": "Founded in 2021 by founders and partners from multiple countries to create credible, intelligent, AI-powered technology solutions."
       },
       "ar": {
         "title": "عن PT Solutions",
-        "description": "تعرّف على Premium Technologies Solutions، الشركة الرقمية العالمية متعددة العلامات التي تبني بنية تحتية فاخرة للأعمال الحديثة."
+        "description": "تأسست عام 2021 على يد مؤسسين وشركاء من عدة دول لبناء حلول تقنية ذكية وموثوقة ومدعومة بالذكاء الاصطناعي."
+      }
+    },
+    "services": {
+      "en": {
+        "title": "PT Solutions Services",
+        "description": "Full-stack development, SaaS platforms, UI/UX, backend architecture, frontend interfaces, admin systems, VIP portals, AI automation, fintech, commerce, and media technology."
+      },
+      "ar": {
+        "title": "خدمات PT Solutions",
+        "description": "تطوير Full-Stack، منصات SaaS، UI/UX، Backend، Frontend، Admin Systems، بوابات VIP، AI Automation، Fintech، Commerce، وتقنيات Media."
       }
     },
     "brands": {
-      "en": { "title": "PT Solutions Brands", "description": "Explore the PT Solutions ecosystem of digital brands and platforms." },
-      "ar": { "title": "علامات PT Solutions", "description": "استكشف منظومة العلامات والمنصات الرقمية التابعة لـ PT Solutions." }
-    },
-    "services": {
-      "en": { "title": "What We Build", "description": "SaaS, fintech infrastructure, commerce systems, digital brands, and media ecosystems." },
-      "ar": { "title": "ماذا نبني", "description": "منصات SaaS، بنية Fintech، أنظمة Commerce، علامات رقمية، ومنظومات Media." }
+      "en": {
+        "title": "PT Solutions Brand Ecosystem",
+        "description": "A premium multi-brand ecosystem across fintech awareness, trading education, commerce, media, and technology."
+      },
+      "ar": {
+        "title": "منظومة علامات PT Solutions",
+        "description": "منظومة متعددة العلامات في التوعية المالية، تعليم التداول، التجارة، الإعلام، والتكنولوجيا."
+      }
     },
     "technology": {
-      "en": { "title": "Technology & Innovation", "description": "A premium technology layer for scalable digital operations." },
-      "ar": { "title": "التكنولوجيا والابتكار", "description": "طبقة تكنولوجية فاخرة لتشغيل رقمي قابل للتوسّع." }
+      "en": {
+        "title": "Technology Architecture",
+        "description": "Modern architecture for scalable software, backend APIs, secure admin systems, cloud infrastructure, automation, and premium interface experiences."
+      },
+      "ar": {
+        "title": "البنية التقنية",
+        "description": "بنية تقنية حديثة للبرمجيات القابلة للتوسع، APIs، أنظمة Admin آمنة، بنية Cloud، Automation، وتجارب واجهات فاخرة."
+      }
+    },
+    "vip": {
+      "en": {
+        "title": "VIP Client Portal",
+        "description": "A premium client portal concept for project visibility, private resources, communication, approvals, and ongoing service experience."
+      },
+      "ar": {
+        "title": "بوابة عملاء VIP",
+        "description": "بوابة فاخرة للعملاء لمتابعة المشاريع، الموارد الخاصة، التواصل، الموافقات، وتجربة الخدمة المستمرة."
+      }
     },
     "partners": {
-      "en": { "title": "Partners & Investors", "description": "Partner with PT Solutions to build, scale, and distribute premium digital platforms." },
-      "ar": { "title": "الشركاء والمستثمرون", "description": "تعاون مع PT Solutions لبناء وتوسيع وتوزيع منصات رقمية فاخرة." }
+      "en": {
+        "title": "Global Inspiration & Standards",
+        "description": "Global financial and technology leaders PT Solutions studies and learns from as benchmarks of innovation, discipline, and excellence."
+      },
+      "ar": {
+        "title": "الإلهام والمعايير العالمية",
+        "description": "مؤسسات مالية وتكنولوجية عالمية تراقبها PT Solutions وتتعلم منها كمعايير للابتكار والانضباط والتميز."
+      }
     },
-    "insights": {
-      "en": { "title": "Insights", "description": "Thought leadership from PT Solutions across technology, SaaS, fintech, commerce, and media." },
-      "ar": { "title": "رؤى ومقالات", "description": "محتوى فكري من PT Solutions في التكنولوجيا وSaaS وFintech وCommerce وMedia." }
-    },
-    "careers": {
-      "en": { "title": "Careers", "description": "Join PT Solutions and help build the next generation of premium digital companies." },
-      "ar": { "title": "الوظائف", "description": "انضم إلى PT Solutions وساهم في بناء الجيل القادم من الشركات الرقمية الفاخرة." }
+    "vision": {
+      "en": {
+        "title": "PT Solutions Vision",
+        "description": "A global vision to create real added value in technology, finance, commerce, media, and institutional digital transformation."
+      },
+      "ar": {
+        "title": "رؤية PT Solutions",
+        "description": "رؤية عالمية لصناعة قيمة حقيقية في التكنولوجيا، المال، التجارة، الميديا، والتحول الرقمي المؤسسي."
+      }
     },
     "contact": {
-      "en": { "title": "Contact PT Solutions", "description": "Start a partnership, request a solution, or connect with the PT Solutions team." },
-      "ar": { "title": "تواصل مع PT Solutions", "description": "ابدأ شراكة، اطلب حلًا رقميًا، أو تواصل مع فريق PT Solutions." }
+      "en": {
+        "title": "Contact PT Solutions",
+        "description": "Tell us what you need, and PT Solutions will study the right solution for your business."
+      },
+      "ar": {
+        "title": "تواصل مع PT Solutions",
+        "description": "أخبرنا ماذا تحتاج، وسنساعدك على اختيار الحل الأنسب لعملك."
+      }
+    },
+    "coming-soon": {
+      "en": {
+        "title": "PT Solutions — Coming Soon",
+        "description": "A premium under-construction experience for upcoming pages, products, and private launches."
+      },
+      "ar": {
+        "title": "PT Solutions — قريبًا",
+        "description": "صفحة فاخرة قيد الإنشاء للصفحات والمنتجات والإطلاقات الخاصة القادمة."
+      }
+    },
+    "insights": {
+      "en": {
+        "title": "PT Solutions Insights",
+        "description": "Thoughts and insights about business systems, technology, and digital growth."
+      },
+      "ar": {
+        "title": "PT Solutions Insights",
+        "description": "رؤى وأفكار حول أنظمة الأعمال والتكنولوجيا والنمو الرقمي."
+      }
+    },
+    "careers": {
+      "en": {
+        "title": "Careers",
+        "description": "Join PT Solutions and help build the next generation of premium digital companies."
+      },
+      "ar": {
+        "title": "الوظائف",
+        "description": "انضم إلى PT Solutions وساهم في بناء الجيل القادم من الشركات الرقمية الفاخرة."
+      }
     }
   },
   "navigation": [
-    { "path": "/", "key": "home", "label": { "en": "Home", "ar": "الرئيسية" } },
-    { "path": "/about", "key": "about", "label": { "en": "About", "ar": "عن الشركة" } },
-    { "path": "/brands", "key": "brands", "label": { "en": "Brands", "ar": "العلامات" } },
-    { "path": "/services", "key": "services", "label": { "en": "What We Build", "ar": "ما نبني" } },
-    { "path": "/technology", "key": "technology", "label": { "en": "Technology", "ar": "التكنولوجيا" } },
-    { "path": "/partners", "key": "partners", "label": { "en": "Partners", "ar": "الشركاء" } },
-    { "path": "/insights", "key": "insights", "label": { "en": "Insights", "ar": "الرؤى" } },
-    { "path": "/contact", "key": "contact", "label": { "en": "Contact", "ar": "تواصل" } }
+    {
+      "path": "/",
+      "key": "home",
+      "label": {
+        "en": "Home",
+        "ar": "الرئيسية"
+      }
+    },
+    {
+      "path": "/about",
+      "key": "about",
+      "label": {
+        "en": "About",
+        "ar": "عن الشركة"
+      }
+    },
+    {
+      "path": "/services",
+      "key": "services",
+      "label": {
+        "en": "Services",
+        "ar": "الخدمات"
+      }
+    },
+    {
+      "path": "/brands",
+      "key": "brands",
+      "label": {
+        "en": "Brands",
+        "ar": "العلامات"
+      }
+    },
+    {
+      "path": "/technology",
+      "key": "technology",
+      "label": {
+        "en": "Technology",
+        "ar": "التكنولوجيا"
+      }
+    },
+    {
+      "path": "/vip",
+      "key": "vip",
+      "label": {
+        "en": "VIP Portal",
+        "ar": "بوابة VIP"
+      }
+    },
+    {
+      "path": "/vision",
+      "key": "vision",
+      "label": {
+        "en": "Vision",
+        "ar": "الرؤية"
+      }
+    },
+    {
+      "path": "/partners",
+      "key": "partners",
+      "label": {
+        "en": "Global Standards",
+        "ar": "المعايير العالمية"
+      }
+    },
+    {
+      "path": "/contact",
+      "key": "contact",
+      "label": {
+        "en": "Contact",
+        "ar": "تواصل"
+      }
+    }
   ],
   "hero": {
-    "eyebrow": { "en": "Ultra-Premium Global Technology & SaaS Company", "ar": "شركة تكنولوجيا وSaaS عالمية فائقة الفخامة" },
-    "title": { "en": "Premium digital infrastructure for ambitious businesses.", "ar": "بنية رقمية فاخرة لأصحاب المشاريع والشركات الطموحة." },
-    "highlight": { "en": "Built to help businesses grow, invest smarter, and scale globally.", "ar": "مصممة لمساعدة الأعمال على النمو، الاستثمار بذكاء، والتوسّع عالميًا." },
-    "subtitle": { "en": "PT Solutions — Premium Technologies Solutions — builds and manages high-end digital brands, SaaS platforms, fintech ecosystems, commerce systems, and media engines for entrepreneurs, companies, and partners who want serious execution.", "ar": "PT Solutions — Premium Technologies Solutions — تبني وتدير علامات رقمية راقية، منصات SaaS، منظومات Fintech، أنظمة Commerce، ومحركات Media لأصحاب المشاريع والشركات والشركاء الذين يريدون تنفيذًا احترافيًا وجديًا." },
-    "primaryCta": { "en": "Explore the Ecosystem", "ar": "استكشف المنظومة" },
-    "secondaryCta": { "en": "Partner With Us", "ar": "ابدأ شراكة معنا" },
-    "visualTitle": { "en": "Digital Brands • SaaS • Fintech • Commerce • Media", "ar": "Digital Brands • SaaS • Fintech • Commerce • Media" }
+    "eyebrow": {
+      "en": "Ultra Premium Technologies SaaS Company · Globally",
+      "ar": "شركة تكنولوجيا وSaaS فائقة الاحتراف · عالميًا"
+    },
+    "title": {
+      "en": "Building Advanced Digital Ecosystems for the Future.",
+      "ar": "نبني منظومات رقمية متقدمة للمستقبل."
+    },
+    "highlight": {
+      "en": "Full-Stack Development · UI/UX · Backend · Frontend · Admin · VIP Client Portals",
+      "ar": "Full-Stack Development · UI/UX · Backend · Frontend · Admin · بوابات عملاء VIP"
+    },
+    "subtitle": {
+      "en": "PT Solutions — Premium Technologies Solutions — is a modern international technology company delivering complete digital experiences: strategy, design, frontend, backend, admin systems, client portals, SaaS platforms, automation, and scalable ecosystems for serious businesses and VIP clients.",
+      "ar": "PT Solutions — Premium Technologies Solutions — هي شركة تكنولوجيا عالمية حديثة تقدم تجربة رقمية كاملة: استراتيجية، تصميم، Frontend، Backend، لوحات Admin، بوابات عملاء، منصات SaaS، Automation، ومنظومات قابلة للتوسع للأعمال الجدية والعملاء الـVIP."
+    },
+    "primaryCta": {
+      "en": "Explore the Full Experience",
+      "ar": "استكشف التجربة الكاملة"
+    },
+    "secondaryCta": {
+      "en": "Discuss a VIP Project",
+      "ar": "ناقش مشروع VIP"
+    },
+    "visualTitle": {
+      "en": "Premium Global Digital Ecosystem",
+      "ar": "منظومة رقمية عالمية فاخرة"
+    },
+    "image": "/images/generated/global_tech_collaboration_in_a_futuristic_boardroo.webp",
+    "chips": [
+      "SaaS",
+      "UI/UX",
+      "Frontend",
+      "Backend",
+      "Admin",
+      "VIP Portal",
+      "AI",
+      "Cloud"
+    ]
   },
   "stats": [
-    { "value": "09", "label": { "en": "Brands & platforms", "ar": "علامات ومنصات" } },
-    { "value": "05", "label": { "en": "Core verticals", "ar": "قطاعات أساسية" } },
-    { "value": "02", "label": { "en": "Language experiences", "ar": "تجربتان لغويتان" } },
-    { "value": "Global", "label": { "en": "Vision & scalability", "ar": "رؤية وقابلية توسّع" } }
+    {
+      "value": "2021",
+      "label": {
+        "en": "Founded with a global mindset",
+        "ar": "تأسست بعقلية عالمية"
+      }
+    },
+    {
+      "value": "Full-Stack",
+      "label": {
+        "en": "Frontend, backend, admin & portals",
+        "ar": "Frontend وBackend وAdmin وبوابات"
+      }
+    },
+    {
+      "value": "9+",
+      "label": {
+        "en": "Brands inside the ecosystem",
+        "ar": "علامات داخل المنظومة"
+      }
+    },
+    {
+      "value": "Global",
+      "label": {
+        "en": "Built for international clients",
+        "ar": "مصممة للعملاء الدوليين"
+      }
+    }
   ],
   "about": {
-    "title": { "en": "The parent company behind a premium digital ecosystem.", "ar": "الشركة الأم وراء منظومة رقمية فاخرة." },
-    "subtitle": { "en": "PT Solutions exists to give entrepreneurs and businesses the technology, brand systems, platforms, and operational tools they need to move faster and compete at a higher level.", "ar": "وُجدت PT Solutions لتمنح أصحاب المشاريع والشركات التكنولوجيا، أنظمة البراند، المنصات، وأدوات التشغيل التي يحتاجونها للتحرك بسرعة والمنافسة بمستوى أعلى." },
-    "body": { "en": "We combine brand building, software architecture, fintech education infrastructure, commerce systems, and media distribution into one premium company model. Every brand in our ecosystem is designed to serve a clear market, solve a real need, and scale with technology at its core.", "ar": "نمزج بين بناء العلامات، هندسة البرمجيات، البنية التعليمية المالية، أنظمة التجارة، وتوزيع المحتوى ضمن نموذج شركة فاخرة واحد. كل علامة داخل منظومتنا مصممة لخدمة سوق واضح، حل حاجة حقيقية، والتوسّع عبر التكنولوجيا كقلب أساسي للعمل." },
+    "title": {
+      "en": "A premium technology company built on credibility, global expertise, and practical innovation.",
+      "ar": "شركة تكنولوجيا فاخرة مبنية على المصداقية، الخبرة العالمية، والابتكار العملي."
+    },
+    "subtitle": {
+      "en": "Founded in 2021, PT Solutions started with founders and partners from multiple countries who united their experience to create one intelligent, trustworthy, and future-ready technology group.",
+      "ar": "تأسست PT Solutions عام 2021 على يد مؤسسين وشركاء من عدة دول جمعوا خبراتهم لبناء مجموعة تكنولوجية ذكية، موثوقة، وجاهزة للمستقبل."
+    },
+    "body": {
+      "en": "We do not push services that clients do not need. We study the business, identify the real gap, then recommend and build the most suitable solution — whether that is a SaaS platform, a private admin system, a VIP client portal, a frontend experience, backend infrastructure, automation, branding, commerce, or a complete digital ecosystem.",
+      "ar": "نحن لا نفرض خدمات لا يحتاجها العميل. ندرس العمل، نحدد الفجوة الحقيقية، ثم نقترح ونبني الحل الأنسب — سواء كان منصة SaaS، نظام Admin خاص، بوابة عملاء VIP، تجربة Frontend، بنية Backend، Automation، Branding، Commerce، أو منظومة رقمية كاملة."
+    },
+    "image": "/images/generated/futuristic_corporate_meeting_with_city_views.webp",
     "pillars": [
-      { "title": { "en": "Strategy", "ar": "استراتيجية" }, "text": { "en": "Clear business positioning, market logic, and monetization paths.", "ar": "تموضع تجاري واضح، منطق سوقي، ومسارات ربح مستدامة." } },
-      { "title": { "en": "Technology", "ar": "تكنولوجيا" }, "text": { "en": "Scalable web platforms, dashboards, automation, and SaaS systems.", "ar": "منصات ويب قابلة للتوسّع، لوحات تحكم، أتمتة، وأنظمة SaaS." } },
-      { "title": { "en": "Distribution", "ar": "انتشار" }, "text": { "en": "Content, communities, partnerships, and growth engines.", "ar": "محتوى، مجتمعات، شراكات، ومحركات نمو." } }
+      {
+        "title": {
+          "en": "Credibility First",
+          "ar": "المصداقية أولًا"
+        },
+        "text": {
+          "en": "Every recommendation starts from what the client truly needs, not what is easiest to sell.",
+          "ar": "كل توصية تبدأ مما يحتاجه العميل فعليًا، وليس مما يسهل بيعه."
+        }
+      },
+      {
+        "title": {
+          "en": "International Mindset",
+          "ar": "عقلية عالمية"
+        },
+        "text": {
+          "en": "A global standard of presentation, architecture, UX, and delivery for clients, partners, and investors.",
+          "ar": "معايير عالمية في العرض، البنية، تجربة المستخدم، وتسليم المشاريع للعملاء والشركاء والمستثمرين."
+        }
+      },
+      {
+        "title": {
+          "en": "Complete Execution",
+          "ar": "تنفيذ كامل"
+        },
+        "text": {
+          "en": "From strategy and UI/UX to frontend, backend, admin, portals, deployment, and operational support.",
+          "ar": "من الاستراتيجية وUI/UX إلى Frontend وBackend وAdmin وبوابات ونشر وتشغيل."
+        }
+      }
     ]
   },
   "servicesIntro": {
-    "eyebrow": { "en": "What We Build", "ar": "ما نبني" },
-    "title": { "en": "Everything a serious business needs to grow smarter.", "ar": "كل ما يحتاجه البزنس الجدي لينمو بذكاء." },
-    "subtitle": { "en": "From idea to brand, platform, dashboard, content engine, and operating system — PT Solutions builds the digital layer behind modern businesses.", "ar": "من الفكرة إلى البراند، المنصة، لوحة التحكم، محرك المحتوى، ونظام التشغيل — PT Solutions تبني الطبقة الرقمية خلف الأعمال الحديثة." }
+    "eyebrow": {
+      "en": "Complete Services",
+      "ar": "خدمات متكاملة"
+    },
+    "title": {
+      "en": "Everything a modern business needs to build, launch, control, and scale digitally.",
+      "ar": "كل ما يحتاجه العمل الحديث للبناء، الإطلاق، التحكم، والتوسع رقميًا."
+    },
+    "subtitle": {
+      "en": "A full premium delivery model covering full-stack development, UI/UX, backend, frontend, admin systems, VIP client portals, AI automation, fintech, commerce, media, and consulting.",
+      "ar": "نموذج تنفيذ فخم ومتكامل يغطي Full-Stack Development وUI/UX وBackend وFrontend وAdmin Systems وVIP Client Portals وAI Automation وFintech وCommerce وMedia وConsulting."
+    },
+    "image": "/images/generated/futuristic_tech_services_overview_design.webp"
   },
   "services": [
-    { "icon": "SaaS", "title": { "en": "Technology & SaaS Development", "ar": "تطوير التكنولوجيا وSaaS" }, "text": { "en": "Custom platforms, dashboards, client portals, internal tools, and scalable software products built for long-term operation.", "ar": "منصات مخصصة، لوحات تحكم، بوابات عملاء، أدوات داخلية، ومنتجات برمجية قابلة للتوسّع والتشغيل طويل الأمد." }, "items": ["Dashboards", "Client Portals", "Automation", "SaaS Products"] },
-    { "icon": "FIN", "title": { "en": "Fintech & Investment Education Infrastructure", "ar": "بنية Fintech وتعليم الاستثمار" }, "text": { "en": "Educational communities, market-awareness platforms, risk-focused content systems, and fintech-ready digital structures.", "ar": "مجتمعات تعليمية، منصات وعي بالأسواق، أنظمة محتوى تركّز على إدارة المخاطر، وبنى رقمية جاهزة لعالم Fintech." }, "items": ["Education Hubs", "Risk Culture", "Market Awareness", "Community Systems"] },
-    { "icon": "BRD", "title": { "en": "Digital Brand Building", "ar": "بناء العلامات الرقمية" }, "text": { "en": "Brand identity, positioning, websites, content architecture, and launch systems for premium digital companies.", "ar": "هوية براند، تموضع، مواقع، بنية محتوى، وأنظمة إطلاق للشركات الرقمية الراقية." }, "items": ["Identity", "Positioning", "Websites", "Launch Systems"] },
-    { "icon": "COM", "title": { "en": "E-Commerce & Product Systems", "ar": "أنظمة التجارة والمنتجات" }, "text": { "en": "Premium commerce experiences, product pages, checkout journeys, inventory logic, and customer acquisition systems.", "ar": "تجارب تجارة إلكترونية فاخرة، صفحات منتجات، مسارات شراء، منطق مخزون، وأنظمة جذب عملاء." }, "items": ["Stores", "Products", "Checkout", "CRM"] },
-    { "icon": "MED", "title": { "en": "Media & Community Platforms", "ar": "منصات Media والمجتمعات" }, "text": { "en": "Content ecosystems, newsletters, educational libraries, creator-led distribution, and community engagement engines.", "ar": "منظومات محتوى، نشرات بريدية، مكتبات تعليمية، انتشار قائم على صناع المحتوى، ومحركات تفاعل للمجتمعات." }, "items": ["Content", "Newsletters", "Communities", "Media Hubs"] },
-    { "icon": "GRW", "title": { "en": "Marketing & Growth Systems", "ar": "أنظمة التسويق والنمو" }, "text": { "en": "Lead funnels, conversion architecture, campaign infrastructure, analytics layers, and operating playbooks.", "ar": "مسارات جذب العملاء، هندسة التحويل، بنية الحملات، طبقات التحليل، وخطط تشغيل عملية." }, "items": ["Funnels", "Campaigns", "Analytics", "Playbooks"] }
+    {
+      "icon": "SaaS",
+      "title": {
+        "en": "SaaS Platforms",
+        "ar": "منصات SaaS"
+      },
+      "text": {
+        "en": "Custom software platforms, subscription products, dashboards, digital tools, and scalable online systems built for growth.",
+        "ar": "منصات برمجية خاصة، منتجات اشتراك، Dashboards، أدوات رقمية، وأنظمة Online قابلة للتوسع."
+      },
+      "items": [
+        "SaaS",
+        "Cloud",
+        "Scalable"
+      ]
+    },
+    {
+      "icon": "FS",
+      "title": {
+        "en": "Full-Stack Development",
+        "ar": "تطوير Full-Stack"
+      },
+      "text": {
+        "en": "Complete frontend and backend development for websites, portals, platforms, admin systems, APIs, and production-ready products.",
+        "ar": "تطوير Frontend وBackend كامل للمواقع والبوابات والمنصات وأنظمة الإدارة وAPIs والمنتجات الجاهزة للإطلاق."
+      },
+      "items": [
+        "Frontend",
+        "Backend",
+        "APIs"
+      ]
+    },
+    {
+      "icon": "UX",
+      "title": {
+        "en": "UI/UX Experience Design",
+        "ar": "تصميم UI/UX"
+      },
+      "text": {
+        "en": "Premium interfaces, UX flows, design systems, mobile responsiveness, conversion-focused layouts, and elegant microinteractions.",
+        "ar": "واجهات فاخرة، مسارات استخدام واضحة، Design Systems، تجاوب موبايل، Layouts فعّالة، وحركات تفاعلية راقية."
+      },
+      "items": [
+        "UX Flow",
+        "Design System",
+        "Mobile"
+      ]
+    },
+    {
+      "icon": "BE",
+      "title": {
+        "en": "Backend Architecture",
+        "ar": "بنية Backend"
+      },
+      "text": {
+        "en": "Secure server logic, databases, APIs, content systems, authentication flows, integrations, and performance-ready infrastructure.",
+        "ar": "منطق سيرفر آمن، قواعد بيانات، APIs، أنظمة محتوى، Authentication، Integrations، وبنية أداء عالية."
+      },
+      "items": [
+        "Database",
+        "Security",
+        "Integrations"
+      ]
+    },
+    {
+      "icon": "FE",
+      "title": {
+        "en": "Frontend Interfaces",
+        "ar": "واجهات Frontend"
+      },
+      "text": {
+        "en": "High-end public websites, app interfaces, landing pages, dashboards, multilingual experiences, and animated glassmorphism UI.",
+        "ar": "مواقع عامة فاخرة، واجهات تطبيق، Landing Pages، Dashboards، تجارب متعددة اللغات، وواجهات Glassmorphism متحركة."
+      },
+      "items": [
+        "SPA",
+        "Responsive",
+        "Motion"
+      ]
+    },
+    {
+      "icon": "ADM",
+      "title": {
+        "en": "Admin Panels & CMS",
+        "ar": "لوحات Admin وCMS"
+      },
+      "text": {
+        "en": "Private control panels for content, services, brands, leads, media, SEO, and live website updates without rebuilding.",
+        "ar": "لوحات تحكم خاصة للمحتوى والخدمات والعلامات والعملاء المحتملين والوسائط وSEO وتحديث الموقع مباشرة."
+      },
+      "items": [
+        "CMS",
+        "Leads",
+        "SEO"
+      ]
+    },
+    {
+      "icon": "VIP",
+      "title": {
+        "en": "VIP Client Portals",
+        "ar": "بوابات عملاء VIP"
+      },
+      "text": {
+        "en": "Premium private client areas for project visibility, documents, approvals, status updates, support, and long-term service experience.",
+        "ar": "مساحات خاصة فاخرة للعملاء لمتابعة المشاريع، الملفات، الموافقات، التحديثات، الدعم، وتجربة خدمة طويلة الأمد."
+      },
+      "items": [
+        "Private Portal",
+        "Approvals",
+        "Support"
+      ]
+    },
+    {
+      "icon": "AI",
+      "title": {
+        "en": "AI & Automation",
+        "ar": "الذكاء الاصطناعي والأتمتة"
+      },
+      "text": {
+        "en": "AI integration, automation workflows, smart business tools, operational optimization, and intelligent process systems.",
+        "ar": "دمج AI، مسارات Automation، أدوات أعمال ذكية، تحسين العمليات، وأنظمة ذكية للإجراءات."
+      },
+      "items": [
+        "AI",
+        "Automation",
+        "Efficiency"
+      ]
+    },
+    {
+      "icon": "FIN",
+      "title": {
+        "en": "Fintech Ecosystems",
+        "ar": "منظومات Fintech"
+      },
+      "text": {
+        "en": "Financial technology tools, investor-focused platforms, institutional dashboards, analytics experiences, and fintech education ecosystems.",
+        "ar": "أدوات تكنولوجيا مالية، منصات للمستثمرين، Dashboards مؤسسية، تجارب تحليلات، ومنظومات توعية مالية."
+      },
+      "items": [
+        "Fintech",
+        "Analytics",
+        "Investor"
+      ]
+    },
+    {
+      "icon": "COM",
+      "title": {
+        "en": "Commerce & Media Systems",
+        "ar": "أنظمة Commerce وMedia"
+      },
+      "text": {
+        "en": "E-commerce foundations, digital sales journeys, brand/media engines, content systems, product storytelling, and creator growth tools.",
+        "ar": "بنية Ecommerce، مسارات بيع رقمية، محركات Brand/Media، أنظمة محتوى، سرد منتجات، وأدوات نمو للمبدعين."
+      },
+      "items": [
+        "Ecommerce",
+        "Media",
+        "Branding"
+      ]
+    },
+    {
+      "icon": "SEC",
+      "title": {
+        "en": "Cloud, Security & Performance",
+        "ar": "Cloud والأمان والأداء"
+      },
+      "text": {
+        "en": "Deployment architecture, scalable hosting, secure flows, optimized assets, fast loading, and production-level reliability.",
+        "ar": "بنية نشر، Hosting قابل للتوسع، مسارات آمنة، ملفات محسنة، سرعة تحميل، واعتمادية جاهزة للإنتاج."
+      },
+      "items": [
+        "Cloud",
+        "Security",
+        "Speed"
+      ]
+    },
+    {
+      "icon": "CONS",
+      "title": {
+        "en": "Technology Consulting",
+        "ar": "استشارات تقنية"
+      },
+      "text": {
+        "en": "We identify the exact business need, build the product plan, define architecture, and recommend the right solution path.",
+        "ar": "نحدد الحاجة الحقيقية للعمل، نبني خطة المنتج، نرسم البنية، ونقترح مسار الحل الصحيح."
+      },
+      "items": [
+        "Strategy",
+        "Architecture",
+        "Roadmap"
+      ]
+    }
   ],
   "technology": {
-    "eyebrow": { "en": "Technology & Innovation", "ar": "التكنولوجيا والابتكار" },
-    "title": { "en": "A premium operating layer for every brand we build.", "ar": "طبقة تشغيل فاخرة لكل علامة نبنيها." },
-    "subtitle": { "en": "The company is structured for speed, control, and scalability: editable content systems, live publishing, multilingual experiences, conversion-ready pages, and data-informed growth.", "ar": "الشركة مبنية للسرعة، التحكم، وقابلية التوسّع: أنظمة محتوى قابلة للتعديل، نشر مباشر، تجربة متعددة اللغات، صفحات جاهزة للتحويل، ونمو مبني على البيانات." },
+    "eyebrow": {
+      "en": "Technology Engine",
+      "ar": "محرك التكنولوجيا"
+    },
+    "title": {
+      "en": "Future-ready architecture for premium digital products.",
+      "ar": "بنية جاهزة للمستقبل لمنتجات رقمية فاخرة."
+    },
+    "subtitle": {
+      "en": "PT Solutions combines modern frontend experiences, secure backend systems, cloud infrastructure, AI automation, admin control, analytics thinking, and scalable product architecture.",
+      "ar": "تجمع PT Solutions بين واجهات Frontend حديثة، أنظمة Backend آمنة، بنية Cloud، AI Automation، تحكم Admin، تفكير Analytics، وبنية منتجات قابلة للتوسع."
+    },
+    "image": "/images/generated/futuristic_tech_dashboard_interface_design.webp",
     "features": [
-      { "title": { "en": "Live CMS Control", "ar": "تحكم مباشر بالمحتوى" }, "text": { "en": "Every page and section can be edited from the admin panel and published immediately.", "ar": "كل صفحة وكل قسم يمكن تعديله من لوحة الأدمن ونشره مباشرة." } },
-      { "title": { "en": "Multilingual Architecture", "ar": "بنية متعددة اللغات" }, "text": { "en": "Arabic and English experiences are managed from the same content system.", "ar": "التجربة العربية والإنجليزية تُداران من نفس نظام المحتوى." } },
-      { "title": { "en": "Conversion-Ready Design", "ar": "تصميم جاهز للتحويل" }, "text": { "en": "Premium design, clear CTAs, lead capture, and partner-oriented flows.", "ar": "تصميم فاخر، دعوات واضحة، جمع طلبات، ومسارات مخصصة للشركاء." } },
-      { "title": { "en": "Scalable Systems", "ar": "أنظمة قابلة للتوسّع" }, "text": { "en": "The platform is prepared for future SaaS modules, brand pages, and custom dashboards.", "ar": "المنصة جاهزة لوحدات SaaS مستقبلية، صفحات براندات، ولوحات تحكم مخصصة." } }
+      {
+        "title": {
+          "en": "Frontend Excellence",
+          "ar": "تميز Frontend"
+        },
+        "text": {
+          "en": "Responsive, animated, multilingual, glassy interfaces that feel premium on desktop and mobile.",
+          "ar": "واجهات متجاوبة ومتحركة ومتعددة اللغات بطابع Glassy فخم على الكمبيوتر والموبايل."
+        }
+      },
+      {
+        "title": {
+          "en": "Backend Systems",
+          "ar": "أنظمة Backend"
+        },
+        "text": {
+          "en": "APIs, server logic, authentication, data structure, integrations, and secure admin functionality.",
+          "ar": "APIs ومنطق سيرفر وAuthentication وهيكلة بيانات وتكاملات ووظائف Admin آمنة."
+        }
+      },
+      {
+        "title": {
+          "en": "Admin Control",
+          "ar": "تحكم Admin"
+        },
+        "text": {
+          "en": "Live content control, media upload, lead inbox, SEO management, and full JSON control for advanced teams.",
+          "ar": "تحكم مباشر بالمحتوى، رفع وسائط، Inbox للطلبات، إدارة SEO، وتحكم JSON كامل للفرق المتقدمة."
+        }
+      },
+      {
+        "title": {
+          "en": "VIP Client Experience",
+          "ar": "تجربة عملاء VIP"
+        },
+        "text": {
+          "en": "Private client spaces designed for clarity, project status, resources, approvals, and premium communication.",
+          "ar": "مساحات خاصة مصممة للوضوح، حالة المشروع، الموارد، الموافقات، والتواصل الفاخر."
+        }
+      },
+      {
+        "title": {
+          "en": "AI & Automation",
+          "ar": "AI وAutomation"
+        },
+        "text": {
+          "en": "Automation-ready workflows and AI-assisted structures that reduce operational friction.",
+          "ar": "مسارات جاهزة للأتمتة وبنى مدعومة بالذكاء الاصطناعي لتخفيف الاحتكاك التشغيلي."
+        }
+      },
+      {
+        "title": {
+          "en": "Cloud & Performance",
+          "ar": "Cloud والأداء"
+        },
+        "text": {
+          "en": "Fast loading, optimized assets, scalable hosting, serverless functions, and reliable publishing flows.",
+          "ar": "تحميل سريع، أصول محسنة، Hosting قابل للتوسع، Serverless Functions، ومسارات نشر موثوقة."
+        }
+      },
+      {
+        "title": {
+          "en": "Security Mindset",
+          "ar": "عقلية أمان"
+        },
+        "text": {
+          "en": "Structured access, environment-based credentials, safer content workflows, and clear deployment practices.",
+          "ar": "صلاحيات منظمة، بيانات اعتماد عبر Environment، مسارات محتوى أكثر أمانًا، وممارسات نشر واضحة."
+        }
+      },
+      {
+        "title": {
+          "en": "Product Scalability",
+          "ar": "قابلية توسع المنتج"
+        },
+        "text": {
+          "en": "A foundation ready to evolve into more pages, portals, services, brands, and connected systems.",
+          "ar": "أساس جاهز للتطور إلى صفحات وبوابات وخدمات وعلامات وأنظمة مترابطة أكثر."
+        }
+      }
     ]
   },
   "brandsIntro": {
-    "eyebrow": { "en": "Our Ecosystem", "ar": "منظومتنا" },
-    "title": { "en": "A portfolio of brands built around technology, markets, commerce, and media.", "ar": "محفظة علامات مبنية حول التكنولوجيا، الأسواق، التجارة، والميديا." },
-    "subtitle": { "en": "Each brand has a clear role inside the PT Solutions ecosystem, while the parent company provides the strategic, technical, and operational infrastructure behind it.", "ar": "كل علامة لها دور واضح داخل منظومة PT Solutions، بينما توفر الشركة الأم البنية الاستراتيجية والتقنية والتشغيلية خلفها." }
+    "eyebrow": {
+      "en": "Multi-Brand Ecosystem",
+      "ar": "منظومة متعددة العلامات"
+    },
+    "title": {
+      "en": "A premium portfolio of brands built around finance, technology, commerce, media, and community.",
+      "ar": "محفظة فاخرة من العلامات حول المال، التكنولوجيا، التجارة، الميديا، والمجتمع."
+    },
+    "subtitle": {
+      "en": "Each brand keeps its original identity and is presented inside a consistent premium circular frame. PT Solutions connects the ecosystem with strategy, technology, and long-term growth.",
+      "ar": "كل علامة تحافظ على هويتها الأصلية وتُعرض داخل إطار دائري فخم وموحد. PT Solutions تربط المنظومة بالاستراتيجية والتكنولوجيا والنمو طويل الأمد."
+    },
+    "image": "/images/generated/pt_solutions_multi_brand_network_showcase.webp"
   },
   "brands": [
-    { "name": "Lebanese Forex Traders", "category": "Fintech Education", "status": { "en": "Active", "ar": "نشطة" }, "description": { "en": "A Lebanese trading education and awareness community focused on discipline, risk management, and market culture.", "ar": "مجتمع لبناني للتعليم والوعي في التداول يركز على الانضباط، إدارة المخاطر، وثقافة الأسواق." }, "cta": { "en": "Learn More", "ar": "اعرف أكثر" }, "url": "#", "tags": ["Education", "Community", "Markets"] },
-    { "name": "No Risk FX", "category": "Fintech Brand", "status": { "en": "Active", "ar": "نشطة" }, "description": { "en": "A premium financial awareness brand focused on market education, disciplined thinking, and responsible risk culture.", "ar": "علامة مالية راقية تركّز على الوعي بالأسواق، التفكير المنضبط، وثقافة المخاطر المسؤولة." }, "cta": { "en": "Learn More", "ar": "اعرف أكثر" }, "url": "#", "tags": ["Fintech", "Education", "Brand"] },
-    { "name": "Elevate wave", "category": "Digital Growth", "status": { "en": "In Development", "ar": "قيد التطوير" }, "description": { "en": "A growth-oriented digital brand designed to help businesses elevate their online presence and performance.", "ar": "علامة رقمية موجهة للنمو تساعد الشركات على تطوير حضورها وأدائها الرقمي." }, "cta": { "en": "Coming Soon", "ar": "قريبًا" }, "url": "#", "tags": ["Growth", "Digital", "Brand"] },
-    { "name": "Trade wave", "category": "Markets Media", "status": { "en": "In Development", "ar": "قيد التطوير" }, "description": { "en": "A market-focused media and education concept designed for smart, structured market content.", "ar": "مفهوم إعلامي وتعليمي للأسواق مصمم لمحتوى سوقي ذكي ومنظم." }, "cta": { "en": "Coming Soon", "ar": "قريبًا" }, "url": "#", "tags": ["Markets", "Media", "Education"] },
-    { "name": "The wolf of wallstreet", "category": "Media", "status": { "en": "In Development", "ar": "قيد التطوير" }, "description": { "en": "A media-driven market culture brand built around storytelling, finance culture, and educational content.", "ar": "علامة إعلامية لثقافة الأسواق مبنية حول السرد، الثقافة المالية، والمحتوى التعليمي." }, "cta": { "en": "Coming Soon", "ar": "قريبًا" }, "url": "#", "tags": ["Media", "Finance Culture", "Content"] },
-    { "name": "Arab trading network", "category": "Community Network", "status": { "en": "In Development", "ar": "قيد التطوير" }, "description": { "en": "A regional digital network for trading communities, education, and market awareness across Arabic-speaking audiences.", "ar": "شبكة رقمية إقليمية لمجتمعات التداول والتعليم والوعي بالأسواق للجمهور العربي." }, "cta": { "en": "Coming Soon", "ar": "قريبًا" }, "url": "#", "tags": ["Network", "Arabic", "Markets"] },
-    { "name": "Prime Tech LB", "category": "Technology Services", "status": { "en": "Active", "ar": "نشطة" }, "description": { "en": "A technology and digital services brand focused on practical business tools, systems, and online infrastructure.", "ar": "علامة خدمات تكنولوجية ورقمية تركز على أدوات وأنظمة وبنية أعمال عملية على الإنترنت." }, "cta": { "en": "Learn More", "ar": "اعرف أكثر" }, "url": "#", "tags": ["Tech", "Web", "Systems"] },
-    { "name": "ST Parfum", "category": "Commerce", "status": { "en": "Active", "ar": "نشطة" }, "description": { "en": "A premium perfume commerce brand built for a modern, elegant, mobile-first shopping experience.", "ar": "علامة تجارة عطور فاخرة مصممة لتجربة تسوق عصرية وأنيقة ومهيأة للموبايل." }, "cta": { "en": "Visit Brand", "ar": "زيارة العلامة" }, "url": "#", "tags": ["Commerce", "Perfume", "Luxury"] },
-    { "name": "Forex Queen", "category": "Fintech Media", "status": { "en": "In Development", "ar": "قيد التطوير" }, "description": { "en": "A female-led financial awareness and market education brand with a strong media identity.", "ar": "علامة وعي مالي وتعليم أسواق بقيادة نسائية وهوية إعلامية قوية." }, "cta": { "en": "Coming Soon", "ar": "قريبًا" }, "url": "#", "tags": ["Media", "Education", "Community"] }
+    {
+      "name": "Lebanese Forex Traders",
+      "logo": "/images/brands/lft-logo.webp",
+      "category": "Financial Awareness / Community",
+      "status": {
+        "en": "Active Ecosystem Brand",
+        "ar": "علامة نشطة ضمن المنظومة"
+      },
+      "description": {
+        "en": "A Lebanese trading education and awareness community focused on discipline, risk management, and real market culture.",
+        "ar": "مجتمع لبناني للتوعية والتعليم في التداول يركز على الانضباط وإدارة المخاطر وثقافة السوق الواقعية."
+      },
+      "cta": {
+        "en": "View Brand",
+        "ar": "عرض العلامة"
+      },
+      "url": "#",
+      "tags": [
+        "Education",
+        "Community",
+        "Finance"
+      ]
+    },
+    {
+      "name": "No Risk FX",
+      "logo": "/images/brands/noriskfx-logo.webp",
+      "category": "Fintech Education / Market Awareness",
+      "status": {
+        "en": "Active Ecosystem Brand",
+        "ar": "علامة نشطة ضمن المنظومة"
+      },
+      "description": {
+        "en": "A premium financial awareness brand built around education, technical culture, and responsible trading mindset.",
+        "ar": "علامة توعية مالية فاخرة مبنية على التعليم والثقافة الفنية وعقلية تداول مسؤولة."
+      },
+      "cta": {
+        "en": "View Brand",
+        "ar": "عرض العلامة"
+      },
+      "url": "#",
+      "tags": [
+        "Fintech",
+        "Awareness",
+        "Trading"
+      ]
+    },
+    {
+      "name": "Elevate Wave",
+      "logo": "/images/brands/elevate-wave-logo.webp",
+      "category": "Growth / Innovation",
+      "status": {
+        "en": "Ecosystem Brand",
+        "ar": "علامة ضمن المنظومة"
+      },
+      "description": {
+        "en": "A growth-focused concept designed for modern digital positioning, content evolution, and future-ready brand development.",
+        "ar": "مفهوم يركز على النمو والتموضع الرقمي الحديث وتطوير العلامات الجاهزة للمستقبل."
+      },
+      "cta": {
+        "en": "View Brand",
+        "ar": "عرض العلامة"
+      },
+      "url": "#",
+      "tags": [
+        "Growth",
+        "Innovation",
+        "Digital"
+      ]
+    },
+    {
+      "name": "TRADE VISION",
+      "logo": "/images/brands/trade-vision-logo.webp",
+      "category": "Trading Intelligence / Education",
+      "status": {
+        "en": "Ecosystem Brand",
+        "ar": "علامة ضمن المنظومة"
+      },
+      "description": {
+        "en": "A trading-education brand focused on clearer market vision, structured learning, and smarter decision frameworks.",
+        "ar": "علامة تعليمية في التداول تركز على وضوح الرؤية، التعليم المنظم، وأطر قرار أذكى."
+      },
+      "cta": {
+        "en": "View Brand",
+        "ar": "عرض العلامة"
+      },
+      "url": "#",
+      "tags": [
+        "Trading",
+        "Vision",
+        "Education"
+      ]
+    },
+    {
+      "name": "The Wolf of Wallstreet",
+      "logo": "/images/brands/the-wolf-of-wall-street-logo.webp",
+      "category": "Finance Media / Market Culture",
+      "status": {
+        "en": "Ecosystem Brand",
+        "ar": "علامة ضمن المنظومة"
+      },
+      "description": {
+        "en": "A market-culture and financial media brand with bold positioning, storytelling, and community-oriented content.",
+        "ar": "علامة ميديا وثقافة مالية بتموضع قوي وسرد قصصي ومحتوى موجه للمجتمع."
+      },
+      "cta": {
+        "en": "View Brand",
+        "ar": "عرض العلامة"
+      },
+      "url": "#",
+      "tags": [
+        "Media",
+        "Finance",
+        "Culture"
+      ]
+    },
+    {
+      "name": "Arab Trading Network",
+      "logo": "/images/brands/arab-trading-network-logo.webp",
+      "category": "Regional Network / Finance Education",
+      "status": {
+        "en": "Ecosystem Brand",
+        "ar": "علامة ضمن المنظومة"
+      },
+      "description": {
+        "en": "A regional trading network concept connecting Arabic-speaking audiences through education, awareness, and market conversation.",
+        "ar": "مفهوم شبكة تداول إقليمية تربط الجمهور العربي عبر التعليم والتوعية وحوار السوق."
+      },
+      "cta": {
+        "en": "View Brand",
+        "ar": "عرض العلامة"
+      },
+      "url": "#",
+      "tags": [
+        "Arab Market",
+        "Network",
+        "Education"
+      ]
+    },
+    {
+      "name": "Prime Tech LB",
+      "logo": "",
+      "category": "Technology / Digital Products",
+      "status": {
+        "en": "Technology Brand",
+        "ar": "علامة تكنولوجية"
+      },
+      "description": {
+        "en": "A technology-focused brand for digital products, websites, platforms, automation, and practical business tools.",
+        "ar": "علامة تكنولوجية للمنتجات الرقمية والمواقع والمنصات والأتمتة وأدوات الأعمال العملية."
+      },
+      "cta": {
+        "en": "View Brand",
+        "ar": "عرض العلامة"
+      },
+      "url": "#",
+      "tags": [
+        "Technology",
+        "Software",
+        "Tools"
+      ]
+    },
+    {
+      "name": "ST Parfum",
+      "logo": "/images/brands/st-parfum-logo.webp",
+      "category": "Commerce / Luxury Retail",
+      "status": {
+        "en": "Commerce Brand",
+        "ar": "علامة تجارة"
+      },
+      "description": {
+        "en": "A perfume commerce brand concept designed for premium online retail, product storytelling, and luxury digital shopping experiences.",
+        "ar": "علامة تجارة عطور مصممة للبيع الرقمي الفاخر وسرد المنتجات وتجربة تسوق راقية."
+      },
+      "cta": {
+        "en": "View Brand",
+        "ar": "عرض العلامة"
+      },
+      "url": "#",
+      "tags": [
+        "Ecommerce",
+        "Luxury",
+        "Retail"
+      ]
+    },
+    {
+      "name": "Forex Queen",
+      "logo": "",
+      "category": "Finance Education / Women-Led Brand",
+      "status": {
+        "en": "Ecosystem Brand",
+        "ar": "علامة ضمن المنظومة"
+      },
+      "description": {
+        "en": "A finance education and market-awareness brand concept with a distinctive voice, elegant identity, and audience-focused positioning.",
+        "ar": "علامة تعليم وتوعية مالية بصوت مميز وهوية أنيقة وتموضع موجه للجمهور."
+      },
+      "cta": {
+        "en": "View Brand",
+        "ar": "عرض العلامة"
+      },
+      "url": "#",
+      "tags": [
+        "Finance",
+        "Education",
+        "Brand"
+      ]
+    }
   ],
   "why": {
-    "eyebrow": { "en": "Why PT Solutions", "ar": "لماذا PT Solutions" },
-    "title": { "en": "Not just websites. Complete digital companies.", "ar": "ليس مجرد مواقع. بل شركات رقمية متكاملة." },
+    "eyebrow": {
+      "en": "Why Clients Trust PT Solutions",
+      "ar": "لماذا يثق العملاء بـ PT Solutions"
+    },
+    "title": {
+      "en": "We build what is truly needed — not what is easiest to sell.",
+      "ar": "نبني ما يحتاجه العميل فعليًا — لا ما يسهل بيعه."
+    },
     "items": [
-      { "title": { "en": "Business-first execution", "ar": "تنفيذ مبني على البزنس" }, "text": { "en": "Every platform is designed around real business goals, not only visuals.", "ar": "كل منصة تُصمم حول أهداف تجارية حقيقية، وليس الشكل فقط." } },
-      { "title": { "en": "Premium brand standards", "ar": "معايير براند فاخرة" }, "text": { "en": "A refined visual system, serious tone, and high-trust presentation.", "ar": "نظام بصري راقٍ، نبرة جدية، وحضور يوحي بالثقة." } },
-      { "title": { "en": "Technology that scales", "ar": "تكنولوجيا قابلة للتوسّع" }, "text": { "en": "The website and admin system are designed to grow with future products and brands.", "ar": "الموقع ونظام الأدمن مصممان للنمو مع المنتجات والعلامات المستقبلية." } }
+      {
+        "title": {
+          "en": "Client-First Diagnosis",
+          "ar": "تشخيص يبدأ من العميل"
+        },
+        "text": {
+          "en": "We understand the business model, goals, audience, pain points, and operational reality before proposing anything.",
+          "ar": "نفهم نموذج العمل والأهداف والجمهور ونقاط الألم والواقع التشغيلي قبل اقتراح أي شيء."
+        }
+      },
+      {
+        "title": {
+          "en": "Premium Presentation",
+          "ar": "عرض فخم واحترافي"
+        },
+        "text": {
+          "en": "The design language is investor-ready, partner-ready, client-ready, and suitable for international positioning.",
+          "ar": "لغة التصميم جاهزة للمستثمرين والشركاء والعملاء ومناسبة للتموضع الدولي."
+        }
+      },
+      {
+        "title": {
+          "en": "Technical Depth",
+          "ar": "عمق تقني"
+        },
+        "text": {
+          "en": "Frontend, backend, admin, media, content, APIs, data, performance, and deployment are considered as one system.",
+          "ar": "Frontend وBackend وAdmin وMedia وContent وAPIs وData وPerformance وDeployment تُبنى كنظام واحد."
+        }
+      },
+      {
+        "title": {
+          "en": "Credibility & Transparency",
+          "ar": "مصداقية وشفافية"
+        },
+        "text": {
+          "en": "We explain what is possible, what needs production expansion, and what should be prioritized first.",
+          "ar": "نوضح ما هو ممكن، وما يحتاج توسعة إنتاجية، وما يجب إعطاؤه الأولوية أولًا."
+        }
+      },
+      {
+        "title": {
+          "en": "Scalable Ecosystem Thinking",
+          "ar": "تفكير منظومي قابل للتوسع"
+        },
+        "text": {
+          "en": "The website can evolve into portals, SaaS products, dashboards, brand pages, and client workspaces.",
+          "ar": "الموقع يمكن أن يتطور إلى بوابات ومنتجات SaaS وDashboards وصفحات علامات ومساحات عمل للعملاء."
+        }
+      },
+      {
+        "title": {
+          "en": "Full Experience Delivery",
+          "ar": "تسليم تجربة كاملة"
+        },
+        "text": {
+          "en": "The project is not only pages; it includes experience, structure, admin control, contact flow, and VIP-ready storytelling.",
+          "ar": "المشروع ليس صفحات فقط؛ بل تجربة وهيكل وتحكم Admin ومسار تواصل وسرد جاهز للـVIP."
+        }
+      }
     ]
   },
   "vision": {
-    "eyebrow": { "en": "Global Vision", "ar": "رؤية عالمية" },
-    "title": { "en": "Building from Lebanon. Designed for the world.", "ar": "ننطلق من لبنان. ونصمم للعالم." },
-    "text": { "en": "PT Solutions is built with a global mindset: premium execution, bilingual communication, scalable systems, and a multi-brand strategy capable of expanding across markets and industries.", "ar": "PT Solutions مبنية بعقلية عالمية: تنفيذ فاخر، تواصل ثنائي اللغة، أنظمة قابلة للتوسّع، واستراتيجية متعددة العلامات قادرة على التوسع عبر الأسواق والقطاعات." }
+    "eyebrow": {
+      "en": "Future Vision",
+      "ar": "الرؤية المستقبلية"
+    },
+    "title": {
+      "en": "To become a recognized global premium technology group building real value across finance, commerce, media, and digital transformation.",
+      "ar": "أن تصبح PT Solutions مجموعة تكنولوجية عالمية فاخرة ومعترف بها تبني قيمة حقيقية في المال، التجارة، الميديا، والتحول الرقمي."
+    },
+    "text": {
+      "en": "Our vision is to create meaningful digital ecosystems that help investors, innovators, influencers, entrepreneurs, business owners, and project founders operate smarter, look more credible, and grow with modern technology. PT Solutions is built to contribute to a smarter global transformation through advanced tools, honest advisory, scalable systems, and premium execution.",
+      "ar": "رؤيتنا هي بناء منظومات رقمية ذات معنى تساعد المستثمرين والمبتكرين والمؤثرين ورواد الأعمال وأصحاب المشاريع على العمل بذكاء أكبر والظهور بمصداقية أعلى والنمو عبر التكنولوجيا الحديثة. PT Solutions وُجدت للمساهمة في تحول عالمي أذكى من خلال أدوات متقدمة، استشارة صادقة، أنظمة قابلة للتوسع، وتنفيذ فخم."
+    },
+    "image": "/images/generated/futuristic_vision_of_global_connectivity.webp"
   },
   "partners": {
-    "eyebrow": { "en": "Partnerships", "ar": "الشراكات" },
-    "title": { "en": "For companies, founders, and investors ready to build seriously.", "ar": "للشركات والمؤسسين والمستثمرين الجاهزين للبناء بجدية." },
-    "subtitle": { "en": "We collaborate with businesses that need premium technology, digital infrastructure, fintech education ecosystems, commerce growth, and media distribution.", "ar": "نتعاون مع الشركات التي تحتاج إلى تكنولوجيا فاخرة، بنية رقمية، منظومات تعليم Fintech، نمو Commerce، وانتشار Media." },
+    "eyebrow": {
+      "en": "Global Standards",
+      "ar": "معايير عالمية"
+    },
+    "title": {
+      "en": "Inspired by global leaders in finance and technology.",
+      "ar": "نستلهم من قادة عالميين في المال والتكنولوجيا."
+    },
+    "subtitle": {
+      "en": "PT Solutions observes institutions and innovators known for excellence, scale, discipline, product thinking, and innovation. They are presented as learning references and benchmarks — not as claimed formal partners.",
+      "ar": "تراقب PT Solutions مؤسسات ومبتكرين معروفين بالتميز والحجم والانضباط وتفكير المنتج والابتكار. يتم عرضهم كمراجع تعلم ومعايير مقارنة — وليس كشراكات رسمية مزعومة."
+    },
+    "disclaimer": {
+      "en": "These institutions are presented as examples of global leaders we observe, learn from, and draw inspiration from in innovation and excellence. No formal partnership is implied unless explicitly stated.",
+      "ar": "تُعرض هذه المؤسسات كأمثلة لقادة عالميين نراقبهم ونتعلم منهم ونستلهم منهم في الابتكار والتميز. لا يُقصد الإشارة إلى شراكة رسمية إلا إذا ذُكر ذلك صراحة."
+    },
+    "financial": [
+      "JPMorgan Chase",
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "HSBC",
+      "Citi",
+      "Barclays",
+      "UBS"
+    ],
+    "technology": [
+      "Google",
+      "Microsoft",
+      "Apple",
+      "Amazon",
+      "Meta",
+      "NVIDIA",
+      "IBM",
+      "Oracle",
+      "Adobe",
+      "Salesforce"
+    ],
     "cards": [
-      { "title": { "en": "Strategic Partners", "ar": "شركاء استراتيجيون" }, "text": { "en": "For companies that want to co-build products, platforms, or market ecosystems.", "ar": "للشركات التي تريد بناء منتجات أو منصات أو منظومات سوقية مشتركة." } },
-      { "title": { "en": "Investors", "ar": "مستثمرون" }, "text": { "en": "For investors interested in a multi-brand technology and digital platform structure.", "ar": "للمستثمرين المهتمين بهيكل تكنولوجي رقمي متعدد العلامات." } },
-      { "title": { "en": "Business Clients", "ar": "عملاء الأعمال" }, "text": { "en": "For business owners who need systems, websites, commerce infrastructure, or digital growth.", "ar": "لأصحاب الأعمال الذين يحتاجون إلى أنظمة، مواقع، بنية تجارة، أو نمو رقمي." } }
+      {
+        "title": {
+          "en": "Financial Institutions",
+          "ar": "مؤسسات مالية"
+        },
+        "text": {
+          "en": "Global banking and institutional finance leaders are studied for discipline, trust, scale, governance, and client experience.",
+          "ar": "نراقب قادة البنوك والمال المؤسسي عالميًا من حيث الانضباط والثقة والحجم والحوكمة وتجربة العميل."
+        }
+      },
+      {
+        "title": {
+          "en": "Technology Companies",
+          "ar": "شركات تكنولوجيا"
+        },
+        "text": {
+          "en": "Global technology companies are observed for product quality, cloud thinking, AI evolution, interface standards, and ecosystem scale.",
+          "ar": "نراقب شركات التكنولوجيا العالمية من حيث جودة المنتج وتفكير Cloud وتطور AI ومعايير الواجهة وحجم المنظومة."
+        }
+      },
+      {
+        "title": {
+          "en": "Innovation Benchmarks",
+          "ar": "معايير ابتكار"
+        },
+        "text": {
+          "en": "We use global standards as inspiration for building premium local and international solutions with practical value.",
+          "ar": "نستخدم المعايير العالمية كمصدر إلهام لبناء حلول محلية ودولية فاخرة بقيمة عملية."
+        }
+      }
     ]
   },
   "insights": {
-    "eyebrow": { "en": "Insights", "ar": "رؤى" },
-    "title": { "en": "Thinking across technology, business, and markets.", "ar": "تفكير بين التكنولوجيا، الأعمال، والأسواق." },
+    "eyebrow": {
+      "en": "Insights & Thinking",
+      "ar": "الرؤى والتفكير"
+    },
+    "title": {
+      "en": "Ideas about technology, brands, growth, and business structure.",
+      "ar": "أفكار حول التكنولوجيا والعلامات والنمو وبناء الأعمال."
+    },
     "items": [
-      { "date": "2026", "category": "SaaS", "title": { "en": "Why modern businesses need their own operating platform", "ar": "لماذا تحتاج الأعمال الحديثة إلى منصة تشغيل خاصة بها" }, "excerpt": { "en": "The strongest companies are no longer only service providers. They operate through systems, dashboards, and digital assets that compound over time.", "ar": "أقوى الشركات لم تعد مجرد مزودي خدمات. هي تعمل عبر أنظمة، لوحات تحكم، وأصول رقمية تتراكم قيمتها مع الوقت." } },
-      { "date": "2026", "category": "Brand", "title": { "en": "A brand is stronger when it has technology behind it", "ar": "البراند يصبح أقوى عندما تقف خلفه تكنولوجيا" }, "excerpt": { "en": "Premium visual identity is only the surface. The real advantage comes from content systems, CRM, analytics, and execution speed.", "ar": "الهوية البصرية الفاخرة هي السطح فقط. القوة الحقيقية تأتي من أنظمة المحتوى، CRM، التحليلات، وسرعة التنفيذ." } },
-      { "date": "2026", "category": "Growth", "title": { "en": "From content to conversion: the PT Solutions model", "ar": "من المحتوى إلى التحويل: نموذج PT Solutions" }, "excerpt": { "en": "We connect media, education, product pages, and lead systems into one business growth engine.", "ar": "نربط الميديا، التعليم، صفحات المنتجات، وأنظمة العملاء ضمن محرك نمو واحد للبزنس." } }
+      {
+        "date": "2026",
+        "category": "Technology",
+        "title": {
+          "en": "Why modern companies need operational technology, not only marketing.",
+          "ar": "لماذا تحتاج الشركات الحديثة إلى تكنولوجيا تشغيلية لا مجرد تسويق."
+        },
+        "excerpt": {
+          "en": "The biggest growth leap often comes from systems: dashboards, automation, workflows, and structured data.",
+          "ar": "أكبر قفزة نمو تأتي غالبًا من الأنظمة: لوحات التحكم والأتمتة ومسارات العمل والبيانات المنظمة."
+        }
+      },
+      {
+        "date": "2026",
+        "category": "Brand",
+        "title": {
+          "en": "A premium brand becomes stronger when its backend is smart.",
+          "ar": "البراند الراقي يصبح أقوى عندما يكون خلفه نظام ذكي."
+        },
+        "excerpt": {
+          "en": "Visual identity matters, but real strength comes from technology, process, and measurable customer experience.",
+          "ar": "الهوية البصرية مهمة، لكن القوة الحقيقية تأتي من التكنولوجيا والعمليات وتجربة العميل القابلة للقياس."
+        }
+      },
+      {
+        "date": "2026",
+        "category": "Growth",
+        "title": {
+          "en": "From idea to ecosystem: how PT Solutions thinks about expansion.",
+          "ar": "من فكرة إلى منظومة: كيف تفكر PT Solutions بالتوسع."
+        },
+        "excerpt": {
+          "en": "We prefer models that can grow into brands, platforms, content engines, and long-term assets.",
+          "ar": "نفضل النماذج التي يمكن أن تتطور إلى علامات ومنصات ومحركات محتوى وأصول طويلة الأمد."
+        }
+      }
     ]
   },
   "careers": {
-    "eyebrow": { "en": "Careers", "ar": "الوظائف" },
-    "title": { "en": "Build premium digital companies with us.", "ar": "ابنِ معنا شركات رقمية فاخرة." },
-    "subtitle": { "en": "PT Solutions is always open to ambitious builders, designers, marketers, developers, operators, and creators.", "ar": "PT Solutions منفتحة دائمًا على البنّائين الطموحين، المصممين، المسوقين، المطورين، المشغلين، وصناع المحتوى." },
+    "eyebrow": {
+      "en": "Careers & Talent",
+      "ar": "الوظائف والمواهب"
+    },
+    "title": {
+      "en": "We welcome ambitious builders, operators, and innovators.",
+      "ar": "نرحّب بالطموحين من البنّائين والمشغّلين والمبتكرين."
+    },
+    "subtitle": {
+      "en": "PT Solutions is growing and always open to exceptional people who can help build premium systems and strong digital companies.",
+      "ar": "PT Solutions تنمو باستمرار وهي منفتحة دائمًا على الأشخاص المميزين القادرين على بناء أنظمة راقية وشركات رقمية قوية."
+    },
     "roles": [
-      { "title": "Frontend Developer", "type": "Remote / Hybrid", "status": { "en": "Open Talent Pool", "ar": "قاعدة مواهب مفتوحة" } },
-      { "title": "Brand Designer", "type": "Remote / Hybrid", "status": { "en": "Open Talent Pool", "ar": "قاعدة مواهب مفتوحة" } },
-      { "title": "Content Strategist", "type": "Remote / Hybrid", "status": { "en": "Open Talent Pool", "ar": "قاعدة مواهب مفتوحة" } }
+      {
+        "title": "Frontend Developer",
+        "type": "Remote / Hybrid",
+        "status": {
+          "en": "Open Talent Pool",
+          "ar": "قاعدة مواهب مفتوحة"
+        }
+      },
+      {
+        "title": "UI/UX Designer",
+        "type": "Remote / Hybrid",
+        "status": {
+          "en": "Open Talent Pool",
+          "ar": "قاعدة مواهب مفتوحة"
+        }
+      },
+      {
+        "title": "Growth & Content Strategist",
+        "type": "Remote / Hybrid",
+        "status": {
+          "en": "Open Talent Pool",
+          "ar": "قاعدة مواهب مفتوحة"
+        }
+      },
+      {
+        "title": "Operations & Project Coordinator",
+        "type": "Remote / Hybrid",
+        "status": {
+          "en": "Open Talent Pool",
+          "ar": "قاعدة مواهب مفتوحة"
+        }
+      }
     ]
   },
   "contact": {
-    "eyebrow": { "en": "Contact", "ar": "تواصل" },
-    "title": { "en": "Let’s build the next serious digital company.", "ar": "لنبنِ الشركة الرقمية الجدية التالية." },
-    "subtitle": { "en": "Tell us what you want to build, scale, or improve. The PT Solutions team will review your request and contact you with the next step.", "ar": "أخبرنا ماذا تريد أن تبني، تطوّر، أو تحسّن. سيراجع فريق PT Solutions طلبك ويتواصل معك بالخطوة التالية." },
-    "fields": {
-      "name": { "en": "Full name", "ar": "الاسم الكامل" },
-      "email": { "en": "Email address", "ar": "البريد الإلكتروني" },
-      "company": { "en": "Company / project", "ar": "الشركة / المشروع" },
-      "interest": { "en": "What do you need?", "ar": "ماذا تحتاج؟" },
-      "message": { "en": "Message", "ar": "الرسالة" },
-      "submit": { "en": "Send Request", "ar": "إرسال الطلب" }
+    "eyebrow": {
+      "en": "Start a Premium Discussion",
+      "ar": "ابدأ نقاشًا احترافيًا"
     },
-    "options": ["Business Website", "SaaS Platform", "Brand Building", "E-Commerce", "Fintech Education", "Partnership", "Investment", "Other"]
+    "title": {
+      "en": "Tell us what you need, and we will help you find the right solution.",
+      "ar": "أخبرنا ماذا تحتاج، وسنساعدك على اختيار الحل الأنسب."
+    },
+    "subtitle": {
+      "en": "Whether you need a full-stack website, SaaS platform, backend system, admin panel, client VIP portal, UI/UX upgrade, or a complete digital ecosystem, PT Solutions will study the requirement and guide you professionally.",
+      "ar": "سواء كنت تحتاج موقع Full-Stack، منصة SaaS، نظام Backend، لوحة Admin، بوابة VIP للعملاء، تطوير UI/UX، أو منظومة رقمية كاملة، ستدرس PT Solutions المتطلبات وتوجهك باحتراف."
+    },
+    "fields": {
+      "name": {
+        "en": "Full name",
+        "ar": "الاسم الكامل"
+      },
+      "email": {
+        "en": "Email address",
+        "ar": "البريد الإلكتروني"
+      },
+      "company": {
+        "en": "Company / Project",
+        "ar": "الشركة / المشروع"
+      },
+      "interest": {
+        "en": "What do you need?",
+        "ar": "ماذا تحتاج؟"
+      },
+      "message": {
+        "en": "Project details",
+        "ar": "تفاصيل المشروع"
+      },
+      "submit": {
+        "en": "Send Request",
+        "ar": "إرسال الطلب"
+      }
+    },
+    "options": [
+      "Full-Stack Website",
+      "UI/UX Design",
+      "Backend System",
+      "Frontend Interface",
+      "Admin Panel / CMS",
+      "VIP Client Portal",
+      "SaaS Platform",
+      "AI Automation",
+      "Fintech Ecosystem",
+      "Commerce / Media Platform",
+      "Technology Consulting"
+    ],
+    "image": "/images/generated/futuristic_contact_page_with_holographic_ui.webp"
   },
   "footer": {
-    "tagline": { "en": "Premium Technologies Solutions — building digital brands, SaaS platforms, fintech ecosystems, commerce systems, and media engines for serious businesses.", "ar": "Premium Technologies Solutions — نبني علامات رقمية، منصات SaaS، منظومات Fintech، أنظمة Commerce، ومحركات Media للأعمال الجدية." },
-    "disclaimer": { "en": "Financial-market content connected to PT Solutions fintech brands is educational and awareness-based only. It is not financial advice and does not promise results. All trading and investment activities involve risk.", "ar": "أي محتوى مرتبط بالأسواق المالية ضمن علامات PT Solutions هو للتوعية والتعليم فقط، وليس نصيحة مالية ولا يَعِد بنتائج. التداول والاستثمار يتضمنان مخاطر." },
-    "copyright": { "en": "All rights reserved.", "ar": "جميع الحقوق محفوظة." }
+    "tagline": {
+      "en": "Premium Technologies Solutions — building credible digital ecosystems for serious businesses, investors, entrepreneurs, and VIP clients.",
+      "ar": "Premium Technologies Solutions — نبني منظومات رقمية موثوقة للأعمال الجدية والمستثمرين ورواد الأعمال وعملاء VIP."
+    },
+    "disclaimer": {
+      "en": "PT Solutions studies every client need carefully before recommending a solution. References to global institutions are for inspiration and benchmarking only and do not imply formal partnerships unless explicitly stated.",
+      "ar": "تدرس PT Solutions حاجة كل عميل بعناية قبل اقتراح الحل. الإشارة إلى المؤسسات العالمية هي للإلهام والمعايير فقط ولا تعني وجود شراكة رسمية إلا إذا ذُكر ذلك صراحة."
+    },
+    "copyright": {
+      "en": "All rights reserved. Built as a premium global technology ecosystem.",
+      "ar": "جميع الحقوق محفوظة. مبنية كمنظومة تكنولوجية عالمية فاخرة."
+    }
+  },
+  "experience": {
+    "eyebrow": {
+      "en": "Full Experience Upgrade",
+      "ar": "ترقية التجربة الكاملة"
+    },
+    "title": {
+      "en": "A VIP-ready digital experience from first impression to private client control.",
+      "ar": "تجربة رقمية جاهزة للـVIP من الانطباع الأول حتى التحكم الخاص بالعميل."
+    },
+    "subtitle": {
+      "en": "The final version combines photo assets, premium glassmorphism, international tech positioning, full-stack service storytelling, admin control, and a client portal concept inside one polished ecosystem.",
+      "ar": "النسخة النهائية تجمع الأصول البصرية، Glassmorphism فاخر، تموضع تكنولوجي عالمي، سرد خدمات Full-Stack، تحكم Admin، ومفهوم بوابة عملاء داخل منظومة واحدة مصقولة."
+    },
+    "image": "/images/generated/futuristic_tech_ui_ecosystem_display.webp",
+    "items": [
+      {
+        "title": {
+          "en": "High-End Public Website",
+          "ar": "موقع عام فاخر"
+        },
+        "text": {
+          "en": "International homepage, full internal pages, premium CTA flow, bilingual support, responsive mobile and desktop UX.",
+          "ar": "Homepage عالمية، صفحات داخلية كاملة، CTA فاخرة، دعم لغتين، وتجربة متجاوبة للموبايل والكمبيوتر."
+        }
+      },
+      {
+        "title": {
+          "en": "Full-Stack Delivery Story",
+          "ar": "سرد تنفيذ Full-Stack"
+        },
+        "text": {
+          "en": "Clear services for UI/UX, frontend, backend, admin systems, portals, SaaS, automation, cloud, and consulting.",
+          "ar": "خدمات واضحة لـUI/UX وFrontend وBackend وAdmin Systems وبوابات وSaaS وAutomation وCloud وConsulting."
+        }
+      },
+      {
+        "title": {
+          "en": "Admin + VIP Portal Layer",
+          "ar": "طبقة Admin وVIP Portal"
+        },
+        "text": {
+          "en": "A functional admin CMS plus a polished VIP client portal page for private access, project visibility, approvals, and support.",
+          "ar": "CMS Admin عملي مع صفحة بوابة VIP فاخرة للوصول الخاص ومتابعة المشاريع والموافقات والدعم."
+        }
+      }
+    ]
+  },
+  "portal": {
+    "eyebrow": {
+      "en": "Client VIP Portal",
+      "ar": "بوابة عملاء VIP"
+    },
+    "title": {
+      "en": "A private premium space for serious clients, projects, and long-term collaboration.",
+      "ar": "مساحة خاصة وفاخرة للعملاء الجديين والمشاريع والتعاون طويل الأمد."
+    },
+    "subtitle": {
+      "en": "The portal experience is designed to help VIP clients follow project progress, review resources, request support, approve milestones, and stay connected with the PT Solutions team.",
+      "ar": "تجربة البوابة مصممة لمساعدة عملاء VIP على متابعة تقدم المشاريع، مراجعة الملفات، طلب الدعم، الموافقة على المراحل، والبقاء على تواصل مع فريق PT Solutions."
+    },
+    "image": "/images/generated/futuristic_control_room_with_holographic_ui.webp",
+    "features": [
+      {
+        "title": {
+          "en": "Project Status",
+          "ar": "حالة المشروع"
+        },
+        "text": {
+          "en": "Milestones, progress updates, delivery phases, and priority tasks in one clear workspace.",
+          "ar": "مراحل، تحديثات تقدم، مراحل تسليم، ومهام أولوية ضمن مساحة واضحة."
+        }
+      },
+      {
+        "title": {
+          "en": "Private Resources",
+          "ar": "موارد خاصة"
+        },
+        "text": {
+          "en": "Central access to documents, design assets, strategy notes, brand files, and technical references.",
+          "ar": "وصول مركزي إلى الملفات والتصاميم والملاحظات الاستراتيجية وملفات العلامة والمراجع التقنية."
+        }
+      },
+      {
+        "title": {
+          "en": "Approvals & Requests",
+          "ar": "موافقات وطلبات"
+        },
+        "text": {
+          "en": "A premium flow for reviewing sections, requesting edits, approving stages, and opening support cases.",
+          "ar": "مسار فخم لمراجعة الأقسام وطلب التعديلات واعتماد المراحل وفتح طلبات دعم."
+        }
+      },
+      {
+        "title": {
+          "en": "VIP Communication",
+          "ar": "تواصل VIP"
+        },
+        "text": {
+          "en": "A structured contact layer for high-priority clients who need clarity, speed, and professional follow-up.",
+          "ar": "طبقة تواصل منظمة للعملاء ذوي الأولوية الذين يحتاجون وضوحًا وسرعة ومتابعة احترافية."
+        }
+      }
+    ]
+  },
+  "adminSystem": {
+    "eyebrow": {
+      "en": "Admin Control",
+      "ar": "تحكم Admin"
+    },
+    "title": {
+      "en": "A private CMS and operational control layer for the PT Solutions team.",
+      "ar": "طبقة CMS وتحكم تشغيلية خاصة بفريق PT Solutions."
+    },
+    "subtitle": {
+      "en": "The project includes a live admin panel for editing content, brands, services, SEO, leads, media, and full JSON structure. It is ready for Netlify Functions and Netlify Blobs publishing.",
+      "ar": "يتضمن المشروع لوحة Admin مباشرة لتعديل المحتوى والعلامات والخدمات وSEO والطلبات والوسائط وهيكل JSON الكامل. جاهز للنشر عبر Netlify Functions وNetlify Blobs."
+    },
+    "image": "/images/generated/modern_ui_dashboard_design_mockup.webp",
+    "features": [
+      "Live Content Editing",
+      "Bilingual Page Control",
+      "Service & Brand Manager",
+      "Lead Inbox",
+      "Media Upload",
+      "SEO Control",
+      "Full JSON Control",
+      "Instant Publish"
+    ]
+  },
+  "delivery": {
+    "eyebrow": {
+      "en": "Delivery Architecture",
+      "ar": "بنية التسليم"
+    },
+    "title": {
+      "en": "Designed as a complete frontend, backend, admin, and client experience package.",
+      "ar": "مصمم كباقة كاملة تشمل Frontend وBackend وAdmin وتجربة عملاء."
+    },
+    "image": "/images/generated/futuristic_data_hub_with_glowing_logo.webp",
+    "steps": [
+      {
+        "label": "01",
+        "title": {
+          "en": "Discover",
+          "ar": "اكتشاف"
+        },
+        "text": {
+          "en": "Understand business needs, audience, objectives, and required digital control.",
+          "ar": "فهم احتياجات العمل والجمهور والأهداف والتحكم الرقمي المطلوب."
+        }
+      },
+      {
+        "label": "02",
+        "title": {
+          "en": "Design",
+          "ar": "تصميم"
+        },
+        "text": {
+          "en": "Build premium UI/UX, content hierarchy, brand presentation, and responsive experience.",
+          "ar": "بناء UI/UX فاخر وهيكل محتوى وعرض العلامة وتجربة متجاوبة."
+        }
+      },
+      {
+        "label": "03",
+        "title": {
+          "en": "Develop",
+          "ar": "تطوير"
+        },
+        "text": {
+          "en": "Implement frontend, backend functions, admin, lead flow, media upload, and deployment readiness.",
+          "ar": "تنفيذ Frontend وBackend Functions وAdmin ومسار Leads ورفع Media وجاهزية النشر."
+        }
+      },
+      {
+        "label": "04",
+        "title": {
+          "en": "Scale",
+          "ar": "توسع"
+        },
+        "text": {
+          "en": "Prepare the ecosystem to grow into SaaS products, portals, dashboards, integrations, and private systems.",
+          "ar": "تجهيز المنظومة للتوسع إلى منتجات SaaS وبوابات وDashboards وتكاملات وأنظمة خاصة."
+        }
+      }
+    ]
+  },
+  "comingSoon": {
+    "eyebrow": {
+      "en": "Under Construction",
+      "ar": "قيد الإنشاء"
+    },
+    "title": {
+      "en": "We are building something exceptional.",
+      "ar": "نحن نبني شيئًا استثنائيًا."
+    },
+    "subtitle": {
+      "en": "This section is being prepared with the same premium standard as the PT Solutions ecosystem. Contact us for early access, partnership discussions, or VIP project requests.",
+      "ar": "يتم تجهيز هذا القسم بنفس المعايير الفاخرة لمنظومة PT Solutions. تواصل معنا للوصول المبكر أو نقاش الشراكات أو طلبات مشاريع VIP."
+    },
+    "image": "/images/generated/futuristic_metallic_portal_frame_design.webp"
   }
 }
